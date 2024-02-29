@@ -1,6 +1,6 @@
 import time
-Username = "InternTech"
-Password = "83318"
+Username = "User"
+Password = "1.0"
 Wait = 1
 
 Username_Input = input("\nEnter Username: ")
